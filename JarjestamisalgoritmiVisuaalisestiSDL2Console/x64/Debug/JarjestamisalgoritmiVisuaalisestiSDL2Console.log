@@ -1,0 +1,4 @@
+﻿  JarjestamisalgoritmiVisuaalisestiSDL2Console.cpp
+C:\Users\eetua\source\repos\JarjestamisalgoritmiVisuaalisestiSDL2Console\JarjestamisalgoritmiVisuaalisestiSDL2Console\JarjestamisalgoritmiVisuaalisestiSDL2Console.cpp(48,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  JarjestamisalgoritmiVisuaalisestiSDL2Console.vcxproj -> C:\Users\eetua\source\repos\JarjestamisalgoritmiVisuaalisestiSDL2Console\x64\Debug\JarjestamisalgoritmiVisuaalisestiSDL2Console.exe
+          1 file(s) copied.
